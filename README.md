@@ -17,8 +17,7 @@ List Scroll To Index Animated made with react native, Expo and Moti.
 ## 🖼 GIF
 
 <p align='center'>
-<img src='' width='375' />
-
+<img src='https://user-images.githubusercontent.com/52014318/146302575-838c7f66-018e-4e07-85a2-67bfa4a27d48.gif' width='375' />
 </p>
 
 ## ✨ Technologies!
